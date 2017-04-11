@@ -182,6 +182,10 @@
 
 .quick-update--rate {
   margin-bottom: 15px;
+  button {
+    background: #fff !important;
+    color: $charcoal;
+  }
 }
 
 a.update--entry-title {
